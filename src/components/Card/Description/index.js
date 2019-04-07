@@ -1,22 +1,28 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { StyleSheet, View, Text } from "react-native";
+import { StyleSheet, Text } from "react-native";
+import { black } from "../../../assets/colors";
 
-export function Description({ children }) {
+export function Description({ children, numberOfLines }) {
   return (
-    <Text numberOfLines={2} style={styles.text}>
+    <Text numberOfLines={numberOfLines} style={styles.text}>
       {children}
     </Text>
   );
 }
 
+Description.defaultProps = {
+  numberOfLines: 2
+};
+
 Description.propTypes = {
+  numberOfLines: PropTypes.number,
   children: PropTypes.string.isRequired
 };
 
 const styles = StyleSheet.create({
   text: {
     fontSize: 18,
-    color: "#acacac"
+    color: black.light
   }
 });
