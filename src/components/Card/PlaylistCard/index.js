@@ -22,7 +22,7 @@ export function PlaylistCard({ thumbSource, name, description, downloaded }) {
         </View>
       );
 
-    return <Description numberOfLines={1}>{description}</Description>;
+    return <Description numberOfLines={2}>{description}</Description>;
   }
 
   return (

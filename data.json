@@ -1,0 +1,187 @@
+{
+  "data": {
+    "lists": [
+      {
+        "id": "usf76esf67b",
+        "listTitle": "Your favorites",
+        "listSubtitle": "",
+        "content": [
+          {
+            "id": "yfdhvfseghbvyv",
+            "type": "playlist",
+            "name": "Your Mixtape",
+            "description": "Endless personalized music",
+            "downloaded": false,
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://www.gstatic.com/youtube/media/ytm/images/pbg/my-mixtape-01@1200.png"
+            }
+          },
+          {
+            "id": "yfyufghbvyv",
+            "type": "playlist",
+            "name": "Waving",
+            "description": "Playlist \u2027 Caique Meira Oliveira",
+            "downloaded": false,
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/pJT8x0UmzHIvgvscijDTQe6FJ-s_QNSDF6adX0wbavkeboRM5qfiAdZyZ85KU4LqJOmGjG_HSg=w544-h544-l90-rj"
+            }
+          },
+          {
+            "id": "bdud67e7fdas",
+            "type": "playlist",
+            "name": "On Road",
+            "description": "Playlist \u2027 Caique Meira Oliveira",
+            "downloaded": true,
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://yt3.ggpht.com/moAbUKpEFshyZCAf6ZNXq4IX2xN6K8VcrgSmMAB_RNsXl8j5M57GVyH3E2B3TQuURiejcOjDtmU=s576"
+            }
+          },
+          {
+            "id": "bdy42bjhe7fdas",
+            "type": "playlist",
+            "name": "Chill Out",
+            "description": "Playlist \u2027 Caique Meira Oliveira",
+            "downloaded": true,
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/OgMhVSQYX969144sqOvrxuzbHAKiRAZIGuSiFcU4JfLwFx-43JPa1nfmacslUKwwHQ1AEE4eYroSEx6k=w544-h544-l90-rj"
+            }
+          },
+          {
+            "id": "bdud67e7f",
+            "type": "playlist",
+            "name": "Have a Great Day ;)",
+            "description": "Playlist \u2027 Caique Meira Oliveira",
+            "downloaded": true,
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/bfdb7xxb-bUTKQAfJC4upN4hZG870XZ20OS-RBj4YXSz1bT7wJPiAa7KUCfJpA7qq_tNASIdGZtoPDHnTg=w544-h544-l90-rj"
+            }
+          },
+          {
+            "id": "bdud67e7f675",
+            "type": "playlist",
+            "name": "Chill Out",
+            "description": "Playlist \u2027 Caique Meira",
+            "downloaded": false,
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/BZGLPYjzDOmShZODP2-HYGX4174Z9QHWQ4P700M2bk6_fne3lNtxzleDoVyLGvVhYENlzXbOWgiR5-0=w544-h544-l90-rj"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fsifiue939b",
+        "listTitle": "At home",
+        "listSubtitle": "Listen again",
+        "content": [
+          {
+            "id": "bfyseytf",
+            "type": "artist",
+            "name": "Flume",
+            "subscribersAmount": 1.3,
+            "image": {
+              "url": "https://images.unsplash.com/photo-1500305614571-ae5b6592e65d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+            }
+          },
+          {
+            "id": "bdud67e7f",
+            "type": "playlist",
+            "name": "Waving",
+            "description": "Playlist \u2027 Caique Meira",
+            "downloaded": false,
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/pJT8x0UmzHIvgvscijDTQe6FJ-s_QNSDF6adX0wbavkeboRM5qfiAdZyZ85KU4LqJOmGjG_HSg=w544-h544-l90-rj"
+            }
+          },
+          {
+            "id": "bdud67e7f675",
+            "type": "playlist",
+            "name": "Chill Out",
+            "description": "Playlist \u2027 Caique Meira",
+            "downloaded": false,
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/sWv8-LGhTivkZKRibOi_ttVDYa81mCsZQrClCIGTvbvwIKLVVrIFeDe3_5KIP9m-04ndEMfSRg=w544-h544-l90-rj"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dsf8e8ferb",
+        "listTitle": "Your afternoon music",
+        "listSubtitle": "Listen again",
+        "content": [
+          {
+            "id": "bdasd67e7f",
+            "type": "playlist",
+            "name": "Inspire Me",
+            "description": "Playlist \u2027 Caique Meira",
+            "downloaded": false,
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/FGBgK3y3FQZmr3kOAJPYYA7rNr0qAeybTp0g0R7f24SvPOoxkEYF2J5ViIYRFg-0TsD_NLFCROXrqfcr=w544-h544-l90-rj"
+            }
+          },
+          {
+            "id": "bdud67e7f",
+            "type": "playlist",
+            "name": "More Than You Know",
+            "description": "Album • Axwell /\\ Ingrosso",
+            "downloaded": false,
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/Oa9uCkXt9qsuMVJRRPjaLsGV0dn2R7MMMOkI4lQHFmhdlmMzEkUgG8DSeBRduvUrdCraarkDUVSrrWGpwA=w544-h544-l90-rj"
+            }
+          },
+          {
+            "id": "bdudsdfsd67e7f",
+            "type": "playlist",
+            "name": "Let's Make a Party",
+            "description": "My Fridaylist",
+            "downloaded": false,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/uUiHi4nGxMDKfWT7aiK6aLNPnbjo95V2Jh_qGgATiG0V7OkkzxRbwglXQL8VjjHcMixIzvmZ=w544-h544-l90-rj"
+            }
+          },
+          {
+            "id": "bduddgdr67e7f",
+            "type": "playlist",
+            "name": "Soft Touch",
+            "description": "Playlist \u2027 YouTube Music",
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/F_CiPWRvkRurGrCtUAZv_PKDo5LgbYCZScE2MVFsGQ_Q0I0zWQ8-50c30IT8qLJH8Naeq1l0IEE=w544-h544-l90-rj"
+            }
+          },
+          {
+            "id": "bduasdad98d67e7f",
+            "type": "playlist",
+            "name": "Acoustic Guitar Favorites",
+            "description": "Playlist \u2027 YouTube Music",
+            "downloaded": false,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/zBuaR16s3EsUAEKhdRyJL7amepRCUwlV6z8C58ooErKfwn_q5C-oYplvWgqFcbs1zD4pJcuO1w0=w544-h544-l90-rj"
+            }
+          },
+          {
+            "id": "bdud67easdawu7f675",
+            "type": "playlist",
+            "name": "Low Key",
+            "description": "Playlist \u2027 YouTube Music",
+            "downloaded": false,
+            "subscribersAmount": 1.3,
+            "thumbnail": {
+              "url": "https://lh3.googleusercontent.com/ogpUaPR1nZlS9rhNHenQJnIy0yKPSsV-hJJnrXdsr5r9yszruJ_8j7fIAwJbGTYJLf4vuA4Hdw=w544-h544-l90-rj"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
