@@ -21,5 +21,3 @@ ArtistCard.propTypes = {
   subscribersAmount: PropTypes.oneOfType([PropTypes.number, PropTypes.string])
     .isRequired
 };
-
-export default ArtistCard;
