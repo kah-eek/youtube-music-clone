@@ -12,7 +12,6 @@ Card.propTypes = {
 
 const styles = StyleSheet.create({
   container: {
-    justifyContent: "space-between",
     alignItems: "center",
     width: 190,
     minHeight: 250,
