@@ -21,11 +21,7 @@ This project is based on the application [YouTube Music by Google](https://play.
 ### YouTube Music Clone
 
 <div style="display: 'flex">
-<img width="175" height="310" alt="Original app model" src="https://i.ibb.co/TcSvLbw/Screenshot-1554740550.png"/>
+<img width="175" height="310" alt="Clone app model" src="https://i.ibb.co/B2psYMf/Screenshot-1554740550.png"/>
 
-<img width="175" height="310" alt="Original app model" src="https://i.ibb.co/Y009RHS/Screenshot-1554775155.png"/>
-
-<img width="175" height="310" alt="Original app model" src="https://i.ibb.co/FVcjggw/Screenshot-1554775120.png"/>
-
-<img width="175" height="310" alt="Original app model" src="https://i.ibb.co/6tNzCzs/Screenshot-1554740556.png"/>
+<img width="175" height="310" alt="Clone app model" src="https://i.ibb.co/FVcjggw/Screenshot-1554775120.png"/>
 </div>
