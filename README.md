@@ -24,11 +24,10 @@ This project is based on the application [YouTube Music by Google](https://play.
 <img width="175" height="310" alt="Clone app model" src="https://i.ibb.co/F3SLwYY/Screenshot-1555554489.png"/>
 
 <img width="175" height="310" alt="Clone app model" src="https://i.ibb.co/2St79T9/Screenshot-1555557012.png"/>
-</div>
 
 <img width="175" height="310" alt="Clone app model" src="https://i.ibb.co/vHmn9dv/Screenshot-1555557026.png"/>
 </div>
 
-<div style="text-align: center">
 <img width="175" height="310" alt="Clone app model" src="https://i.ibb.co/HxvSZmh/ezgif-com-video-to-gif.gif"/>
-</div>
+<!-- <div style="text-align: center"> -->
+<!-- </div> -->
