@@ -28,6 +28,6 @@ This project is based on the application [YouTube Music by Google](https://play.
 <img width="175" height="310" alt="Clone app model" src="https://i.ibb.co/vHmn9dv/Screenshot-1555557026.png"/>
 </div>
 
-<img width="175" height="310" alt="Clone app model" src="https://i.ibb.co/HxvSZmh/ezgif-com-video-to-gif.gif"/>
-<!-- <div style="text-align: center"> -->
-<!-- </div> -->
+## On action :rocket:
+
+![clone app model](https://i.ibb.co/jWKNt7J/ezgif-com-video-to-gif.gif)
