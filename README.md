@@ -36,4 +36,4 @@ This project is based on the application [YouTube Music by Google](https://play.
 
 ## On action :rocket:
 
-![clone app model](https://i.ibb.co/WswmpX6/ezgif-com-video-to-gif.gif)
+![clone app model](https://i.ibb.co/MPsn8qf/demo.gif)
