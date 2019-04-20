@@ -11,13 +11,15 @@
     "react": "16.8.3",
     "react-native": "0.59.3",
     "react-native-gesture-handler": "^1.1.0",
+    "react-native-linear-gradient": "^2.5.4",
     "react-native-paper": "^2.15.1",
     "react-native-vector-icons": "^6.4.2",
     "react-navigation": "^3.6.1",
     "react-navigation-material-bottom-tabs": "^1.0.0",
     "react-redux": "^6.0.1",
     "redux": "^4.0.1",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
