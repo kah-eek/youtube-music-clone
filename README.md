@@ -1,4 +1,4 @@
-# YouTube Music - Clone :construction:
+# YouTube Music - Clone
 
 This project is based on the application [YouTube Music by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=en), which I have tested some months and I have decided remake the app using [React Native](https://facebook.github.io/react-native/). Now it's just a copy, but I'll implement new features along the weeks to make this project always great and beauty !
 
